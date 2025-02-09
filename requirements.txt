@@ -1,4 +1,4 @@
 pyTelegramBotAPI==4.7.1
 Flask==2.3.2
 requests==2.31.0
-randfacts==0.0.4
+randfacts==0.22.1
